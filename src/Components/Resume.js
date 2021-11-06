@@ -8,7 +8,7 @@ var Resume = ({ data }) => {
         <div key={education.school}>
           <h3>{education.school}</h3>
           <p className="info">
-            {education.degree} <span>&bull;</span>
+            {education.degree}
             {/* <em className="date">{education.graduated}</em> */}
           </p>
         </div>
@@ -29,7 +29,7 @@ var Resume = ({ data }) => {
           <h3>{skillmessage}</h3>
 
           <div className="skills">
-            <div style={{}}>
+            <div>
               <h4>Front End</h4>
               <p className="info">
                 HTML, CSS, Javascript, Typescript, Reactjs, Nextjs,

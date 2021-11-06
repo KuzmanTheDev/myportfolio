@@ -252,9 +252,10 @@
   }
   #resume .main-col {
     padding-right: 30px;
+    margin-bottom: 90px;
   }
   #resume h3,
-  #resume .info {
+  #resume h4, #resume .info {
     text-align: center;
   }
 
