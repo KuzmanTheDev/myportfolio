@@ -42,7 +42,7 @@ var Resume = ({ data }) => {
               <h4>API Design</h4>
               <p className="info">REST, GraphQL, GROQ</p>
               <h4>Tools</h4>
-              <p className="info">Git, Github, Redux(state management)</p>
+              <p className="info">Git, Github, Redux</p>
             </div>
           </div>
         </div>
