@@ -1,0 +1,66 @@
+{
+  "main": {
+    "name": "Emmanuel Okwuzi",
+    "occupation": "Front End Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Emmanuel. I've been coding for over 2 years now. I am concerned about making user friendly web apps that provides service or meets the need of a person or a larger group of people. I stay up to date with new tech and incorporate best practices to help build better applications that are scalable and responsive. When I'm not writing code, I watch Anime and TV shows. I am also an NFT, Metaverse and Blockchain technology enthusiast.",
+    "contactmessage": "Get in touch with me to anytime",
+    "email": "kuzmanium@gmail.com",
+    "phone": "+234 8115008656",
+    "address": {
+      "city": "Lagos",
+      "state": "Lagos"
+    },
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/emmanuel-okwuzi-945b14224/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kuzman___/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/KuzmanTheDev",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Programming Languages, Tech Stack and tools",
+    "education": [
+      {
+        "school": "University of Lagos - Nigeria",
+        "degree": "Bachelor's Degree, Chemical Engineering"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Let's Talk",
+        "image": "letstalk.png",
+        "url": "https://unilag-letstalk.netlify.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "image": "netflix-clone.png",
+        "url": "https://myclonednetflix.netlify.app/"
+      },
+      {
+        "title": "Uthie's Photography",
+        "image": "uthie-portfolio.png",
+        "url": "https://www.uthmansworld.com/"
+      },
+      {
+        "title": "Custom Tees",
+        "image": "custom-tees.png",
+        "url": "https://mycustomtees.netlify.app/"
+      }
+    ]
+  }
+}
